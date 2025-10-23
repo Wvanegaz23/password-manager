@@ -30,7 +30,7 @@ Este proyecto fue desarrollado para aprender y demostrar:
 
 \`\`\`bash
 # Clonar el repositorio
-git clone [https://github.com/tu-usuario/password-manager](https://github.com/Wvanegaz23/password-manager).git 
+git clone [https://github.com/Wvanegaz23/password-manager](https://github.com/Wvanegaz23/password-manager).git 
 cd password-manager
 
 # Instalar dependencias
