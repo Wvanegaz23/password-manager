@@ -30,7 +30,7 @@ Este proyecto fue desarrollado para aprender y demostrar:
 
 \`\`\`bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/password-manager.git
+git clone [https://github.com/tu-usuario/password-manager](https://github.com/Wvanegaz23/password-manager).git 
 cd password-manager
 
 # Instalar dependencias
@@ -91,7 +91,7 @@ MIT License - ver [LICENSE](LICENSE) para más detalles.
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [@tu-usuario](https://github.com/Wvanegaz23)
 - ORCID: [0009-0000-1485-200X](https://orcid.org/0009-0000-1485-200X)
 
 ## 🙏 Agradecimientos
