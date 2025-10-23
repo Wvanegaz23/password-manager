@@ -86,7 +86,7 @@ Las contribuciones son bienvenidas. Si encuentras algún problema de seguridad, 
 
 ## 📄 Licencia
 
-MIT License - ver [LICENSE](LICENSE) para más detalles.
+MIT License - ver [LICENSE]([LICENSE](https://github.com/Wvanegaz23/password-manager/blob/main/LICENCE)) para más detalles.
 
 ## 👤 Autor
 
