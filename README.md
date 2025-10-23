@@ -91,7 +91,7 @@ MIT License - ver [LICENSE](LICENSE) para más detalles.
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/Wvanegaz23)
+- GitHub: [@Wvanegaz23](https://github.com/Wvanegaz23)
 - ORCID: [0009-0000-1485-200X](https://orcid.org/0009-0000-1485-200X)
 
 ## 🙏 Agradecimientos
