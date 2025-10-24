@@ -90,7 +90,7 @@ MIT License - ver [LICENSE]([LICENSE](https://github.com/Wvanegaz23/password-man
 
 ## 👤 Autor
 
-**Tu Nombre**
+**Wilmer Andrés Vanegas Cangrejo**
 - GitHub: [@Wvanegaz23](https://github.com/Wvanegaz23)
 - ORCID: [0009-0000-1485-200X](https://orcid.org/0009-0000-1485-200X)
 
